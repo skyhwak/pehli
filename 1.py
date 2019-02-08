@@ -1,4 +1,4 @@
+def main(msg):
+	print(msg)
 
-# hello worl
-print (" Hello world")
-
+main("Hello world")
